@@ -33,8 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://marco-create.github.io/Frontend-mentor--challenge1/)
 
 ## My process
 
@@ -48,4 +47,6 @@ Users should be able to:
 
 ## Author
 
-- LinkedIn - [Marco Ninghetto](https://www.linkedin.com/in/marco-ninghetto/)
+- [LinkedIn](https://www.linkedin.com/in/marco-ninghetto/)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/marco-create)
+- [Youtube](https://www.youtube.com/channel/UCRHlXD6UZLXxejP_OvWTnbw)
