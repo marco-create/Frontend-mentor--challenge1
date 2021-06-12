@@ -47,4 +47,6 @@ Users should be able to:
 
 ## Author
 
-- LinkedIn - [Marco Ninghetto](https://www.linkedin.com/in/marco-ninghetto/)
+- [LinkedIn](https://www.linkedin.com/in/marco-ninghetto/)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/marco-create)
+- [Youtube](https://www.youtube.com/channel/UCRHlXD6UZLXxejP_OvWTnbw)
